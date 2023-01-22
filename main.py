@@ -1,5 +1,3 @@
-import time
-
 while True:
 
     first_symbol = int(input("Введите первое число: "))
